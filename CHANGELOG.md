@@ -1,4 +1,4 @@
-V.0.0.2 Changes
+v.0.0.2 Changes
 
 - Added curl commands for parsing certificates
 - Added dig to enumerate DNS data
